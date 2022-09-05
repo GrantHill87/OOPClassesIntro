@@ -1,0 +1,14 @@
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesIntro\OOPClassesIntro\bin\Debug\netcoreapp3.1\OOPClassesIntro.exe
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesIntro\OOPClassesIntro\bin\Debug\netcoreapp3.1\OOPClassesIntro.deps.json
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesIntro\OOPClassesIntro\bin\Debug\netcoreapp3.1\OOPClassesIntro.runtimeconfig.json
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesIntro\OOPClassesIntro\bin\Debug\netcoreapp3.1\OOPClassesIntro.runtimeconfig.dev.json
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesIntro\OOPClassesIntro\bin\Debug\netcoreapp3.1\OOPClassesIntro.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesIntro\OOPClassesIntro\bin\Debug\netcoreapp3.1\OOPClassesIntro.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesIntro\OOPClassesIntro\obj\Debug\netcoreapp3.1\OOPClassesIntro.csproj.AssemblyReference.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesIntro\OOPClassesIntro\obj\Debug\netcoreapp3.1\OOPClassesIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesIntro\OOPClassesIntro\obj\Debug\netcoreapp3.1\OOPClassesIntro.AssemblyInfoInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesIntro\OOPClassesIntro\obj\Debug\netcoreapp3.1\OOPClassesIntro.AssemblyInfo.cs
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesIntro\OOPClassesIntro\obj\Debug\netcoreapp3.1\OOPClassesIntro.csproj.CoreCompileInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesIntro\OOPClassesIntro\obj\Debug\netcoreapp3.1\OOPClassesIntro.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesIntro\OOPClassesIntro\obj\Debug\netcoreapp3.1\OOPClassesIntro.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\OOPClassesIntro\OOPClassesIntro\obj\Debug\netcoreapp3.1\OOPClassesIntro.genruntimeconfig.cache
